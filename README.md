@@ -34,5 +34,6 @@
 [![FEniCSx Badge](https://img.shields.io/badge/-FEniCSx-DC143C?style=for-the-badge&labelColor=black&logo=fenics&logoColor=white)](#)
 [![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white)](#)
 [![C++ Badge](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)](#)
 
 
