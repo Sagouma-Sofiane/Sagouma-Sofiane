@@ -23,12 +23,12 @@
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&labelColor=black&logo=r&logoColor=white)](#)
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=white)](#)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#)
+
 [![Gmsh Badge](https://img.shields.io/badge/-Gmsh-005C99?style=for-the-badge&labelColor=black&logoColor=white)](#)
 [![Paraview Badge](https://img.shields.io/badge/-Paraview-5277AE?style=for-the-badge&labelColor=black&logo=paraview&logoColor=white)](#)
 [![FreeFEM++ Badge](https://img.shields.io/badge/-FreeFEM++-0088CC?style=for-the-badge&labelColor=black&logo=freefem&logoColor=white)](#)
 [![FEniCSx Badge](https://img.shields.io/badge/-FEniCSx-DC143C?style=for-the-badge&labelColor=black&logo=fenics&logoColor=white)](#)
 [![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white)](#)
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=white)](#)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white)](#)
-
 
