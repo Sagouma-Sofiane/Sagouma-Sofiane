@@ -33,10 +33,4 @@
 [![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white)](#)
 
 ## Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
