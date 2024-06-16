@@ -9,3 +9,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
+## Domains of Interest and Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
