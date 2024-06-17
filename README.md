@@ -14,7 +14,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
 
-## Domains of Interest
+## Skills and technologies
 
 
 | Skill                                         | Associated technologies         |
