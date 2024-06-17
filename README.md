@@ -18,12 +18,13 @@
 
 | Skill                                         | Associated technologies         |
 |-----------------------------------------------|---------------------------------|
-| Numerical Simulation and CFD Analysis                             | ![Gmsh](https://img.shields.io/badge/-Gmsh-005C99?style=for-the-badge&labelColor=black&logoColor=white) ![Paraview](https://img.shields.io/badge/-Paraview-5277AE?style=for-the-badge&labelColor=black&logo=paraview&logoColor=white) ![FreeFEM++](https://img.shields.io/badge/-FreeFEM++-0088CC?style=for-the-badge&labelColor=black&logo=freefem&logoColor=white) ![FEniCSx](https://img.shields.io/badge/-FEniCSx-DC143C?style=for-the-badge&labelColor=black&logo=fenics&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
+| Numerical Simulation and CFD Analysis           | ![Gmsh](https://img.shields.io/badge/-Gmsh-005C99?style=for-the-badge&labelColor=black&logoColor=white) ![Paraview](https://img.shields.io/badge/-Paraview-5277AE?style=for-the-badge&labelColor=black&logo=paraview&logoColor=white) ![FreeFEM++](https://img.shields.io/badge/-FreeFEM++-0088CC?style=for-the-badge&labelColor=black&logo=freefem&logoColor=white) ![FEniCSx](https://img.shields.io/badge/-FEniCSx-DC143C?style=for-the-badge&labelColor=black&logo=fenics&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white) |
+| Data manipulation                             | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&labelColor=black&logo=r&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=white) |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab               |
 | Incident Response Planning and Execution      | SOC Automation Lab               |
 | Case Management with TheHive                  | SOC Automation Lab               |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab               |
+
 
 
 
