@@ -39,10 +39,13 @@
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" style="border: 3px solid #FF0000; border-radius: 5px;" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" style="border: 3px solid #007ACC; border-radius: 5px;" />
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" style="border: 3px solid #4D4D4D; border-radius: 5px;" />
-  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" style="border: 3px solid #006400; border-radius: 5px;" />
-  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" style="border: 3px solid #000080; border-radius: 5px;" />
+  <img src="https://img.shields.io/badge/-Security%2B-FFFFFF?&style=for-the-badge&logo=CompTIA&logoColor=FF0000" style="border: 3px solid #FF0000; border-radius: 5px;" />
+  <img src="https://img.shields.io/badge/-Network%2B-FFFFFF?&style=for-the-badge&logo=CompTIA&logoColor=007ACC" style="border: 3px solid #007ACC; border-radius: 5px;" />
+  <img src="https://img.shields.io/badge/-A%2B-FFFFFF?&style=for-the-badge&logo=CompTIA&logoColor=4D4D4D" style="border: 3px solid #4D4D4D; border-radius: 5px;" />
+  <img src="https://img.shields.io/badge/-CDSA-FFFFFF?&style=for-the-badge&logoColor=006400" style="border: 3px solid #006400; border-radius: 5px;" />
+  <img src="https://img.shields.io/badge/-CCD-FFFFFF?&style=for-the-badge&logoColor=000080" style="border: 3px solid #000080; border-radius: 5px;" />
 </div>
+
+
+
 
