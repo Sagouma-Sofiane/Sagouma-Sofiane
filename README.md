@@ -15,7 +15,7 @@
 
 ## 🎯 GOALS 
 
-- 🌊 **I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, whether in labs or industry, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.**
+- 🌊 **I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.**
 
 - 🌍 I have a broad perspective, exploring concepts at various scales—from the vast expanse of the universe to intricate biological systems, spanning from cellular processes to complex organisms.
 
