@@ -21,6 +21,22 @@
 </div>
 
 ## Top technologies
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| <img src="https://img.shields.io/badge/-Numerical Simulation-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />         | [![Gmsh Badge](https://img.shields.io/badge/-Gmsh-005C99?style=for-the-badge&labelColor=black&logoColor=white)](#)
+[![Paraview Badge](https://img.shields.io/badge/-Paraview-5277AE?style=for-the-badge&labelColor=black&logo=paraview&logoColor=white)](#)
+[![FreeFEM++ Badge](https://img.shields.io/badge/-FreeFEM++-0088CC?style=for-the-badge&labelColor=black&logo=freefem&logoColor=white)](#)
+[![FEniCSx Badge](https://img.shields.io/badge/-FEniCSx-DC143C?style=for-the-badge&labelColor=black&logo=fenics&logoColor=white)](#)
+[![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&labelColor=black&logo=mathworks&logoColor=white)](#)
+[![C++ Badge](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=white)](#)|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
