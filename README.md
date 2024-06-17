@@ -17,7 +17,7 @@
 
 - 🌊 I am seeking opportunities, whether in labs or industry, to explore computational fluid dynamics and deepen my understanding of fluid behaviors, as well as to investigate complex flow patterns and phenomena, particularly in understanding fluid behaviors like blood flow.
 
-- 🌍 I am subject-agnostic. I often think at very large scales, like the whole universe, and equally often wonder about atomic particles and their sub-elements.
+- 🌍 I have a broad perspective, exploring concepts at various scales—from the vast expanse of the universe to intricate biological systems, spanning from cellular processes to complex organisms.
 
 - 🌐 I enjoy connecting seemingly unrelated ideas, e.g. temperature and pollen grains, elevators and space curvature.
 
