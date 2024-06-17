@@ -23,7 +23,7 @@
 
 ✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
-## Skills and technologies
+## 🛠️ Skills and technologies
 
 | Skill                 | Associated technologies                                                                                                                                                                                                                   |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
