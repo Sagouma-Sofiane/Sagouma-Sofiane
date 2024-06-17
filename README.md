@@ -32,6 +32,23 @@
 | Web Development and Coding | [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |
 | Machine Learning      | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&labelColor=black&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&labelColor=black&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=white) |
 
+## 🧠 PHILOSOPHY
+
+Here are some thoughts that guide my actions as a professor and as a scientist:
+
+- 🟡 **Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.**
+  – Jim Rohn
+
+- 🟡 **With most subjects, it is more important to really understand the basic material than have exposure to more advanced concepts.**
+  – S. S. Skiena
+
+- 🟡 **Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials.**
+  – Lin Yutang
+
+- 🟡 **The people that really create the things that change this industry are both the thinker and doer in one person. [...] It’s very easy to say "I thought of this three years ago". But usually when you dig a little deeper, you find that the people that really did it were also the people that really worked through the hard intellectual problems as well.**
+  – Steve Jobs
+
+
 ## Statistics
 ![Watchers](https://img.shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
 ![Forks](https://img.shields.io/github/forks/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
