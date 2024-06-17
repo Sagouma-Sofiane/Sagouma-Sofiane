@@ -1,24 +1,5 @@
 ## Hi I'm Sofiane <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-## Hi I'm Sofiane <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
-<div style="position: relative; overflow: hidden;">
-  <div style="position: absolute; animation: slide-text 5s linear;">
-    Hi, I'm Sofiane
-  </div>
-</div>
-
-<style>
-@keyframes slide-text {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(-100%);
-  }
-}
-</style>
-
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
