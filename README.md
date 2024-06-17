@@ -13,7 +13,6 @@
 </style>
 
 
- 
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
