@@ -13,6 +13,15 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
+## ☼ GOALS
+
+- 🕰️ I am looking for opportunities to experiment, in labs or in thoughts, to deeply understand the laws of physics and how clocks work.
+
+- 🌌 I am subject-agnostic. I often think at very large scales, like the whole universe, and equally often wonder about atomic particles and their sub-elements.
+
+- 🧠 I enjoy connecting seemingly unrelated ideas, e.g. temperature and pollen grains, elevators and space curvature.
+
+- 🤔 I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
 ## Skills and technologies
 
