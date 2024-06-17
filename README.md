@@ -13,7 +13,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
-## ☼ GOALS
+## 🎯 GOALS
 
 - 🌱 I am looking for opportunities to experiment, in labs or in thoughts, to deeply understand the laws of physics and how clocks work.
 
