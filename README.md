@@ -19,7 +19,7 @@
 
 - 🌍 I am deeply curious to explore the universe around us through numerical simulation and machine learning. I firmly believe that mathematics and computer technologies will shape the world of tomorrow.
 
-- 🌐 I enjoy connecting seemingly unrelated ideas, e.g. temperature and pollen grains, elevators and space curvature.
+- 🌐 My ambition is to become a researcher and contribute to the advancement of science by exploring areas where mathematics, computer science, physics, and biology intersect.
 
 - 🧐 I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
