@@ -30,6 +30,14 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
+![Watchers](https://img.shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Forks](https://img.shields.io/github/forks/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Stars](https://img.shields.io/github/stars/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Issues](https://img.shields.io/github/issues/Sagouma-Sofiane/Sagouma-Sofiane)
+![Pull Requests](https://img.shields.io/github/issues-pr/Sagouma-Sofiane/Sagouma-Sofiane)
+![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
+
+
 ## 🎯 GOALS 
 
 ✔️  **I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.**
