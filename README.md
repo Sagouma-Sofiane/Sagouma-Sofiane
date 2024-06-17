@@ -32,11 +32,8 @@
 | Web Development and Coding | [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) |
 | Machine Learning      | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&labelColor=black&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&labelColor=black&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=white) |
 
-
-
-
 ## Certifications
-
+![Views](https://shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
 
 
 
