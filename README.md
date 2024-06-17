@@ -4,7 +4,7 @@
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
 
-[![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf)
+[![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/Sagouma-Sofiane/Sagouma- Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf)
 
 :mailbox: Reach me out!
 
