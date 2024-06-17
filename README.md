@@ -4,6 +4,8 @@
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
 
+[![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/your-username/your-repository-name/raw/main/your-resume.pdf)
+
 :mailbox: Reach me out!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
