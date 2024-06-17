@@ -2,18 +2,16 @@
 
 ## Hi I'm Sofiane <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<h2 id="animate">Hi, my name is Sofiane</h2>
+<span style="animation: blink 1s infinite;">Hi, my name is Sofiane</span>
 
 <style>
-@keyframes bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0); }
-}
-#animate {
-    animation: bounce 1s infinite;
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
 }
 </style>
+
 
  
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
