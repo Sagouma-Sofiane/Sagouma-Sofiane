@@ -4,11 +4,7 @@
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
 
-<a href="https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf" target="_blank" style="text-decoration: none;">
-  <button style="background-color: blue; color: white; border: none; padding: 10px 20px; text-align: center; display: inline-block; font-size: 16px; border-radius: 5px; cursor: pointer;" onmousedown="this.style.backgroundColor='red';" onmouseup="this.style.backgroundColor='blue';">
-    View My CV
-  </button>
-</a>
+[![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf)
 
 :mailbox: Reach me out!
 
