@@ -23,13 +23,6 @@
 
 - 🧐 I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
-
-- 🌍 I am subject-agnostic. I often think at very large scales, like the whole universe, and equally often wonder about atomic particles and their sub-elements.
-
-- 🌐 I enjoy connecting seemingly unrelated ideas, e.g. temperature and pollen grains, elevators and space curvature.
-
-- 🧐 I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
-
 ## Skills and technologies
 
 | Skill                 | Associated technologies                                                                                                                                                                                                                   |
