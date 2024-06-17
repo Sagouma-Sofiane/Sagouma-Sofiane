@@ -15,7 +15,14 @@
 
 ## 🎯 GOALS 
 
-- 🌱 I am looking for opportunities to experiment, in labs or in thoughts, to deeply understand the laws of physics and how clocks work.
+- 🌊 I am seeking opportunities, whether in labs or industry, to explore computational fluid dynamics and deepen my understanding of fluid behaviors, as well as to investigate complex flow patterns and phenomena, particularly in understanding fluid behaviors like blood flow.
+
+- 🌍 I am subject-agnostic. I often think at very large scales, like the whole universe, and equally often wonder about atomic particles and their sub-elements.
+
+- 🌐 I enjoy connecting seemingly unrelated ideas, e.g. temperature and pollen grains, elevators and space curvature.
+
+- 🧐 I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
+
 
 - 🌍 I am subject-agnostic. I often think at very large scales, like the whole universe, and equally often wonder about atomic particles and their sub-elements.
 
