@@ -25,7 +25,29 @@
 ![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
 
  <hr/>
+ 
+## 👨🏻‍💻 About Me:
 
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
+   <hr/>
+   
 ## 🎯 GOALS 
 
 ✔️  **I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.**
