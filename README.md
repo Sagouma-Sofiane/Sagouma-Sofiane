@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" />
 </h1>
 
+<div align="center">
+  <img src ="./banner.png" />
+  
+</div>
+
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
@@ -25,28 +30,6 @@
 ![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
 
  <hr/>
- 
-## 👨🏻‍💻 About Me:
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-   <hr/>
    
 ## 🎯 GOALS 
 
