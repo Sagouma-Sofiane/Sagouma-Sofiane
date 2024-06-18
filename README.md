@@ -4,15 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" />
 </h1>
 
-<div align="center">
-  <h2>Welcome to My Github Profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h2>
-</div>
-
-<div align="center">
-  <h2>Hi, I'm Sofiane <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h2>
-</div>
-
-
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
