@@ -4,11 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" />
 </h1> 
 
-<div align="center">
-  <img src ="./sim13.gif" />
-  
-</div>
-
 🎓 I'm a second-year Master's student in Scientific Computing at the University of Reims Champagne-Ardenne in France.
 
 💡 I'm passionate about numerical simulation technologies and data manipulation.
