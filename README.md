@@ -34,7 +34,7 @@
 
 ✔️  I am deeply curious to explore the universe around us through numerical simulation and machine learning. I firmly believe that mathematics and computer technologies will shape the world of tomorrow.
 
- <img src="./sim13.gif" height="130px" align="right" /> 
+ <img src="./Fluide dynamics.gif" height="130px" align="right" /> 
  
 ✔️  My ambition is to become a researcher and contribute to the advancement of science by exploring areas where mathematics, computer science, physics, and biology intersect.
 
