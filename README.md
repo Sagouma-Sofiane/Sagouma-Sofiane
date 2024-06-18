@@ -29,8 +29,8 @@
 ## 🎯 GOALS 
 
 <div style="display: flex; flex-direction: column; align-items: flex-end;">
-  <img src="./sim13.gif" height="250px" align="right" />
-  <img src="./blood_flow.gif" height="250px" align="right" />
+  <img src="./sim13.gif" height="260px" align="right" />
+  <img src="./blood_flow.gif" height="260px" align="right" />
 </div>
 
 ✔️  I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.
