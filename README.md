@@ -67,3 +67,45 @@
 
 🧩 **Problem-Solving:** Problem-solving is my passion, and I love a good coding challenge.
 
+<div class="eb-progress-bar-wrapper">
+
+  <div class="eb-progress-bar html" style="--value: 85; --col: #FF5089">
+    <progress id="html" min="0" max="100" value="85"></progress>
+  </div>
+
+  <label for="html" class="eb-progress-bar-title">
+    <h2>Html</h2>
+  </label>
+</div>
+
+<div class="eb-progress-bar-wrapper">
+  <div class="eb-progress-bar css" style="--value: 91; --col: #FF1659">
+    <progress id="css" min="0" max="100" value="91"></progress>
+  </div>
+
+  <label for="css" class="eb-progress-bar-title">
+    <h2>Css</h2>
+  </label>
+</div>
+
+<div class="eb-progress-bar-wrapper">
+
+  <div class="eb-progress-bar js" style="--value: 68; --col: #E8232E">
+    <progress id="js" min="0" max="100" value="68"></progress>
+  </div>
+
+  <label for="js" class="eb-progress-bar-title">
+    <h2>JavaScript</h2>
+  </label>
+</div>
+
+<div class="eb-progress-bar-wrapper">
+
+  <div class="eb-progress-bar py" style="--value: 88; --col: #AD0346">
+    <progress id="py" min="0" max="100" value="88"></progress>
+  </div>
+
+  <label for="py" class="eb-progress-bar-title">
+    <h2>Python</h2>
+  </label>
+</div>
