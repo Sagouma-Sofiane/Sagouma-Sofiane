@@ -5,7 +5,7 @@
 </h1> 
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./sim13.gif" />
   
 </div>
 
