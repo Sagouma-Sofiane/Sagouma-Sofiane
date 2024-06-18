@@ -61,33 +61,6 @@
 
 🧩 **Problem-Solving:** Problem-solving is my passion, and I love a good coding challenge.
 
-div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
-  <div>
-    <img src="https://via.placeholder.com/80/0000FF/FFFFFF/?text=%F0%9F%9A%80" alt="Innovative Thinking" style="border-radius: 50%;">
-    <h3>Innovative Thinking</h3>
-    <p>I consistently bring fresh ideas and creative solutions to the table, enhancing productivity and efficiency.</p>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/80/0000FF/FFFFFF/?text=%F0%9F%92%AC" alt="Strong Communication" style="border-radius: 50%;">
-    <h3>Strong Communication</h3>
-    <p>My ability to communicate effectively with diverse teams ensures smooth collaboration and successful project outcomes.</p>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/80/0000FF/FFFFFF/?text=%F0%9F%92%AA" alt="Self-Motivation" style="border-radius: 50%;">
-    <h3>Self-Motivation</h3>
-    <p>I excel in remote work settings due to my self-discipline, time management skills, and intrinsic motivation.</p>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/80/0000FF/FFFFFF/?text=%F0%9F%8C%90" alt="Adaptability" style="border-radius: 50%;">
-    <h3>Adaptability</h3>
-    <p>I thrive in dynamic environments, quickly adapting to new tools, technologies, and workflows.</p>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/80/0000FF/FFFFFF/?text=%F0%9F%A7%A9" alt="Problem-Solving" style="border-radius: 50%;">
-    <h3>Problem-Solving</h3>
-    <p>Problem-solving is my passion, and I love a good coding challenge.</p>
-  </div>
-</div>
 
 
 
