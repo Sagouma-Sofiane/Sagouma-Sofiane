@@ -41,6 +41,7 @@
 ✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
   <!-- Ligne vide pour sauter une ligne -->
+  
  <hr/>
  
 ## 🛠️ Skills and technologies
