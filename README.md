@@ -24,6 +24,7 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr/Sagouma-Sofiane/Sagouma-Sofiane)
 ![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
 
+ <hr/>
 
 ## 🎯 GOALS 
 
