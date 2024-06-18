@@ -31,11 +31,12 @@
   <img src="./sim13.gif" height="130px" align="right" />
 
 ✔️  I am seeking internship opportunities for my master's thesis during the academic year 2024/2025, to explore computational fluid dynamics, deepen my understanding of fluid behaviors, and investigate complex flow patterns and phenomena.
-✔️  I am deeply curious to explore the universe around us through numerical simulation and machine learning. I firmly believe that mathematics and computer technologies will shape the world of tomorrow.
 
- <img src="./Fluide dynamics.gif" height="140px" align="right" /> 
+✔️  I am deeply curious to explore the universe around us through numerical simulation and machine learning. I firmly believe that mathematics and computer technologies will shape the world of tomorrow.
+<img src="./Fluide dynamics.gif" height="140px" align="right" /> 
  
 ✔️  My ambition is to become a researcher and contribute to the advancement of science by exploring areas where mathematics, computer science, physics, and biology intersect.
+
 ✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
   <!-- Ligne vide pour sauter une ligne -->
