@@ -40,10 +40,10 @@
 
 ✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
-  <!--  -->
-  <!--  -->
-  
- <hr/>
+  <!-- Ligne vide pour sauter une ligne -->
+<!-- Ligne vide supplémentaire pour descendre la ligne hr -->
+
+<hr/>
  
 ## 🛠️ Skills and technologies
 
