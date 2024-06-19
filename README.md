@@ -60,8 +60,10 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
   <a href="#"><img src="https://img.shields.io/badge/🧩_Problem_Solving-E91E63?style=for-the-badge" alt="Problem Solving"/></a>
 </p>
 
+## Certifications
+
 <div>
-<img src="https://img.shields.io/badge/-Understanding Data Science%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+![DataCamp Certificate](https://img.shields.io/badge/-DataCamp Certificate-FF0000?style=for-the-badge&logo=datacamp&logoColor=white)
 <img src="https://img.shields.io/badge/-• Introduction to Machine Learning%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Intermediate SQL Queries %2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
