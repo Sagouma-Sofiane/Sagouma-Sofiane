@@ -16,6 +16,8 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
    </a>
    </p>
 
+   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 :mailbox: Reach me out!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
