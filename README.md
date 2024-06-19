@@ -63,17 +63,10 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 ## Certifications
 
 
-![DataCamp Certificate](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)
-![Intro to Machine Learning Kaggle Certificate](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning%20Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Intermediate SQL Queries DataCamp Certificate](https://img.shields.io/badge/-Intermediate%20SQL%20Queries%20DataCamp%20Certificate-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)
-
-<div>
-<img src="https://img.shields.io/badge/-• Introduction to Machine Learning%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Intermediate SQL Queries %2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
+![Understanding Data Science](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)
+![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning%20Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries%20DataCamp%20Certificate-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)
+![Tableau Training Simplilearn Certificate](https://img.shields.io/badge/-Tableau%20Training%20Simplilearn%20Certificate-E97627?style=for-the-badge&logo=simplilearn&logoColor=white)
 
 ## 📊 My GitHub Stats
 
