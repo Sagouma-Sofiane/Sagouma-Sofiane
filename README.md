@@ -79,27 +79,14 @@ Click on each certificate to access more information.
 [![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
 [![Tableau Training](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge)](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
 
-<script>
-  document.querySelectorAll('.interactive-badge').forEach(item => {
-    item.addEventListener('click', function(event) {
-      event.preventDefault();
-      this.classList.toggle('clicked');
-    });
-  });
-</script>
-
 <style>
   .interactive-badge {
-    cursor: pointer;
     transition: filter 0.3s ease;
   }
-  .interactive-badge.clicked {
-    filter: brightness(0.8); /* Adjust brightness or add other styles on click */
+  .interactive-badge:hover {
+    filter: brightness(0.8); /* Adjust brightness or add other styles on hover */
   }
 </style>
-
-
-
 
 ## 📊 My GitHub Stats
 
