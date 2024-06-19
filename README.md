@@ -64,7 +64,7 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 ![Understanding Data Science](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)
 ![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)
-![Tableau Training Simplilearn Certificate](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge&logo=simplilearn&logoColor=white)
+![Tableau Training Simplilearn Certificate](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge&logo=simplilearn&logoColor=white) 
 
 ## 📊 My GitHub Stats
 
