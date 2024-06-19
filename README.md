@@ -22,6 +22,8 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sofiane-sagouma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/sofiane-sagouma/fr?trk=profile-badge">Mohamed Sofiane Sagouma</a></div>
+              
  <hr/>
 
 ## 🎯 GOALS 
