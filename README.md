@@ -61,6 +61,9 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 </p>
 
 ## Certifications
+
+Please click on each certificate to access more information.
+
 [![Understanding Data Science](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/understanding-data-science)
 [![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/intro-to-machine-learning)
 [![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
