@@ -15,13 +15,6 @@ I am about to embark on my second year of a Master's program in Scientific Compu
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mesofianeyou)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sofiane.sagouma.mt@gmail.com)
 
-![Watchers](https://img.shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Forks](https://img.shields.io/github/forks/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Stars](https://img.shields.io/github/stars/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Issues](https://img.shields.io/github/issues/Sagouma-Sofiane/Sagouma-Sofiane)
-![Pull Requests](https://img.shields.io/github/issues-pr/Sagouma-Sofiane/Sagouma-Sofiane)
-![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
-
  <hr/>
 
 ## 🎯 GOALS 
@@ -62,3 +55,12 @@ I am about to embark on my second year of a Master's program in Scientific Compu
   <a href="#"><img src="https://img.shields.io/badge/🌐_Adaptability-9C27B0?style=for-the-badge" alt="Adaptability"/></a>
   <a href="#"><img src="https://img.shields.io/badge/🧩_Problem_Solving-E91E63?style=for-the-badge" alt="Problem Solving"/></a>
 </p>
+
+## Statistics
+
+![Watchers](https://img.shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Forks](https://img.shields.io/github/forks/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Stars](https://img.shields.io/github/stars/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
+![Issues](https://img.shields.io/github/issues/Sagouma-Sofiane/Sagouma-Sofiane)
+![Pull Requests](https://img.shields.io/github/issues-pr/Sagouma-Sofiane/Sagouma-Sofiane)
+![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
