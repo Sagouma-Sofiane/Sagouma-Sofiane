@@ -105,7 +105,7 @@ Please click on each certificate to access more information.
 [![Video 3](https://ytcards.demolab.com/?id=jQHp49OyPn8&title=What+is+CFD+?&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411 "Video 3")](https://www.youtube.com/watch?v=jQHp49OyPn8&t=411s)
 [![Video 4](https://ytcards.demolab.com/?id=unrPw4gQAcQ&title=Video+4&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128 "Video 4")](https://www.youtube.com/watch?v=unrPw4gQAcQ&t=128s)
 [![Video 5](https://ytcards.demolab.com/?id=7UX_HjzouzU&title=Et+Si+l'Humanité+Vivait+dans+une+Simulation+?&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 5")](https://www.youtube.com/watch?v=7UX_HjzouzU?t=1712845830)
-[![Video 6](https://ytcards.demolab.com/?id=J0KHiiTtt4w&title=Video+6&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Video 6")](https://www.youtube.com/watch?v=J0KHiiTtt4w)
+[![Video 6](https://ytcards.demolab.com/?id=J0KHiiTtt4w&title=Why+Elon+Musk+says+we're+living+in+a+simulation&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 6")](https://www.youtube.com/watch?v=J0KHiiTtt4w?t=1710538911)
 <!-- END YOUTUBE-CARDS -->
 
 
