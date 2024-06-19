@@ -56,7 +56,7 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
   <a href="#"><img src="https://img.shields.io/badge/🧩_Problem_Solving-E91E63?style=for-the-badge" alt="Problem Solving"/></a>
 </p>
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
