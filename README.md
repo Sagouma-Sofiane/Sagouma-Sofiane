@@ -67,20 +67,10 @@
 
 🧩 **Problem-Solving:** Problem-solving is my passion, and I love a good coding challenge.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <button style="background-color:#4CAF50; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
-    🚀 Innovative Thinking
-  </button>
-  <button style="background-color:#2196F3; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
-    💬 Strong Communication
-  </button>
-  <button style="background-color:#FF9800; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
-    💪 Self-Motivation
-  </button>
-  <button style="background-color:#9C27B0; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
-    🌐 Adaptability
-  </button>
-  <button style="background-color:#E91E63; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
-    🧩 Problem-Solving
-  </button>
-</div>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/🚀_Innovative_Thinking-4CAF50?style=for-the-badge" alt="Innovative Thinking"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/💬_Strong_Communication-2196F3?style=for-the-badge" alt="Strong Communication"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/💪_Self_Motivation-FF9800?style=for-the-badge" alt="Self Motivation"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/🌐_Adaptability-9C27B0?style=for-the-badge" alt="Adaptability"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/🧩_Problem_Solving-E91E63?style=for-the-badge" alt="Problem Solving"/></a>
+</p>
