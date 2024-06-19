@@ -57,16 +57,6 @@
  
 ## 💡 What Sets Me Apart:
 
-🚀 **Innovative Thinking:** I consistently bring fresh ideas and creative solutions to the table, enhancing productivity and efficiency.
-
-💬 **Strong Communication:** My ability to communicate effectively with diverse teams ensures smooth collaboration and successful project outcomes.
-
-💪 **Self-Motivation:** I excel in remote work settings due to my self-discipline, time management skills, and intrinsic motivation.
-
-🌐 **Adaptability:** I thrive in dynamic environments, quickly adapting to new tools, technologies, and workflows.
-
-🧩 **Problem-Solving:** Problem-solving is my passion, and I love a good coding challenge.
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/🚀_Innovative_Thinking-4CAF50?style=for-the-badge" alt="Innovative Thinking"/></a>
   <a href="#"><img src="https://img.shields.io/badge/💬_Strong_Communication-2196F3?style=for-the-badge" alt="Strong Communication"/></a>
