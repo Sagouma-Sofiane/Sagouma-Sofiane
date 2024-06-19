@@ -8,6 +8,15 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 
 [![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf) 
 
+<p align="left">
+   <a href="https://github.com/Sagouma-Sofiane?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sagouma-Sofiane?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/Sagouma-Sofiane?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sagouma-Sofiane?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>
+
 
 :mailbox: Reach me out!
 
