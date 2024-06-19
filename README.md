@@ -64,6 +64,8 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 
 
 ![DataCamp Certificate](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)
+![Intro to Machine Learning Kaggle Certificate](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning%20Kaggle%20Certificate-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 <div>
 <img src="https://img.shields.io/badge/-• Introduction to Machine Learning%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Intermediate SQL Queries %2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
