@@ -102,7 +102,7 @@ Please click on each certificate to access more information.
 <table>
   <tr>
     <td>
-      <iframe width="280" height="157" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="280" height="157" src="https://www.youtube.com/watch?v=GHjopp47vvQ&t=840s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     <td>
       <iframe width="280" height="157" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
