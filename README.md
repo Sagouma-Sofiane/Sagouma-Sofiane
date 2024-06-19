@@ -16,8 +16,6 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
    </a>
    </p>
 
----
-
 :mailbox: Reach me out!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
