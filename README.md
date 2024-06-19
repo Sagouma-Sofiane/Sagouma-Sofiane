@@ -118,30 +118,3 @@ Please click on each certificate to access more information.
   </tr>
 </table>
 
-## Watch My Videos 📹
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; min-width: 45%; margin: 5px;">
-    <strong>Video Title 1</strong>
-    <br/>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1; min-width: 45%; margin: 5px;">
-    <strong>Video Title 2</strong>
-    <br/>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1; min-width: 45%; margin: 5px;">
-    <strong>Video Title 3</strong>
-    <br/>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div style="flex: 1; min-width: 45%; margin: 5px;">
-    <strong>Video Title 4</strong>
-    <br/>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
-
-
-
