@@ -35,6 +35,8 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 
 <!-- Ligne vide supplémentaire pour descendre la ligne hr -->
 
+<!-- Ligne vide supplémentaire pour descendre la ligne hr -->
+
 <hr/>
  
 ## 🛠️ Skills and technologies
