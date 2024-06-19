@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" /> 
 </h1> 
 
-I am about to embark on my second year of a Master's program in Scientific Computing, where I will continue to delve into the world of computational methods and their applications. With a robust academic foundation and a keen interest in numerical simulations and machine learning, I am dedicated to pushing the boundaries of scientific research. My journey in this field is driven by a relentless curiosity to explore and decode the universe through the lens of advanced computing technologies.
+Hi, Welcom to my github profil!!👐. I am about to embark on my second year of a Master's program in Scientific Computing 🎓💻, where I will continue to delve into the world of computational methods 🧮🔍 and their applications. With a robust academic foundation and a keen interest in numerical simulations and machine learning 🤖📊, I am dedicated to pushing the boundaries of scientific research 🔬📈. My journey 🌍🛤️ in this field is driven by a relentless curiosity 🧐✨ to explore and decode the universe 🌌🔭 through the lens of advanced computing technologies 🖥️🚀.
 
 [![View My CV](https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge)](https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf)
 
