@@ -15,8 +15,6 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
       <img alt="View My CV" title="View My CV" src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge"/>
    </a>
    </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  
 :mailbox: Reach me out!
 
