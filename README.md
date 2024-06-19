@@ -100,7 +100,7 @@ Please click on each certificate to access more information.
 ## Watch My Videos 📹
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[!Understanding the Finite Element Method](https://ytcards.demolab.com/?id=GHjopp47vvQ&title=Video+1&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=840 "Video 1")](https://www.youtube.com/watch?v=GHjopp47vvQ&t=840s)
+[![Understanding the Finite Element Method](https://ytcards.demolab.com/?id=GHjopp47vvQ&title=Video+1&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=840 "Video 1")](https://www.youtube.com/watch?v=GHjopp47vvQ&t=840s)
 [![Video 2](https://ytcards.demolab.com/?id=NlLy-u61yyk&title=Video+2&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=533 "Video 2")](https://www.youtube.com/watch?v=NlLy-u61yyk&t=533s)
 [![Video 3](https://ytcards.demolab.com/?id=jQHp49OyPn8&title=Video+3&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411 "Video 3")](https://www.youtube.com/watch?v=jQHp49OyPn8&t=411s)
 [![Video 4](https://ytcards.demolab.com/?id=unrPw4gQAcQ&title=Video+4&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=128 "Video 4")](https://www.youtube.com/watch?v=unrPw4gQAcQ&t=128s)
