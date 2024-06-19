@@ -69,26 +69,6 @@ Please click on each certificate to access more information.
 [![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
 [![Tableau Training](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge)](https://www.simplilearn.com/tableau-training-and-data-visualization-course) 
 
-
-## Certifications
-
-Click on each certificate to access more information.
-
-[![Understanding Data Science](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/understanding-data-science)
-[![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/intro-to-machine-learning)
-[![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
-[![Tableau Training](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge)](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
-
-<!-- Style for hover effect -->
-<style>
-  .interactive-badge {
-    transition: filter 0.3s ease;
-  }
-  .interactive-badge:hover {
-    filter: brightness(0.8); /* Adjust brightness or add other styles on hover */
-  }
-</style>
-
 ## 📊 My GitHub Stats
 
 <details> 
