@@ -67,4 +67,20 @@
 
 🧩 **Problem-Solving:** Problem-solving is my passion, and I love a good coding challenge.
 
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <button style="background-color:#4CAF50; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
+    🚀 Innovative Thinking
+  </button>
+  <button style="background-color:#2196F3; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
+    💬 Strong Communication
+  </button>
+  <button style="background-color:#FF9800; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
+    💪 Self-Motivation
+  </button>
+  <button style="background-color:#9C27B0; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
+    🌐 Adaptability
+  </button>
+  <button style="background-color:#E91E63; color:white; padding:10px 24px; border:none; border-radius:4px; font-size:16px; cursor: pointer;">
+    🧩 Problem-Solving
+  </button>
+</div>
