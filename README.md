@@ -58,13 +58,6 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 
 ## My GitHub Stats
 
-![Watchers](https://img.shields.io/github/watchers/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Forks](https://img.shields.io/github/forks/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Stars](https://img.shields.io/github/stars/Sagouma-Sofiane/Sagouma-Sofiane?style=social)
-![Issues](https://img.shields.io/github/issues/Sagouma-Sofiane/Sagouma-Sofiane)
-![Pull Requests](https://img.shields.io/github/issues-pr/Sagouma-Sofiane/Sagouma-Sofiane)
-![Contributors](https://img.shields.io/github/contributors/Sagouma-Sofiane/Sagouma-Sofiane)
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
