@@ -60,6 +60,8 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
   <a href="#"><img src="https://img.shields.io/badge/🧩_Problem_Solving-E91E63?style=for-the-badge" alt="Problem Solving"/></a>
 </p>
 
+<hr/>
+
 ## 🎖️ Certifications
 
 Please click on each certificate to access more information.
@@ -68,6 +70,8 @@ Please click on each certificate to access more information.
 [![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/intro-to-machine-learning)
 [![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
 [![Tableau Training](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge)](https://www.simplilearn.com/tableau-training-and-data-visualization-course) 
+
+<hr/> 
 
 ## 📊 My GitHub Stats
 
