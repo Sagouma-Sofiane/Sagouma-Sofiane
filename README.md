@@ -74,54 +74,30 @@ Please click on each certificate to access more information.
 
 Click on each certificate to access more information.
 
-<a href="https://www.datacamp.com/courses/understanding-data-science" target="_blank">
-  <img src="https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white"
-       alt="Understanding Data Science"
-       onclick="toggleColor(event)"
-       class="interactive-badge"
-  />
-</a>
-
-<a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank">
-  <img src="https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
-       alt="Intro to Machine Learning"
-       onclick="toggleColor(event)"
-       class="interactive-badge"
-  />
-</a>
-
-<a href="https://www.datacamp.com/courses/intermediate-sql" target="_blank">
-  <img src="https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white"
-       alt="Intermediate SQL Queries"
-       onclick="toggleColor(event)"
-       class="interactive-badge"
-  />
-</a>
-
-<a href="https://www.simplilearn.com/tableau-training-and-data-visualization-course" target="_blank">
-  <img src="https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge"
-       alt="Tableau Training"
-       onclick="toggleColor(event)"
-       class="interactive-badge"
-  />
-</a>
+[![Understanding Data Science](https://img.shields.io/badge/-DataCamp%20Certificate-05122A?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/understanding-data-science)
+[![Intro to Machine Learning](https://img.shields.io/badge/-Intro%20to%20Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/intro-to-machine-learning)
+[![Intermediate SQL Queries](https://img.shields.io/badge/-Intermediate%20SQL%20Queries-FFA500?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/courses/intermediate-sql)
+[![Tableau Training](https://img.shields.io/badge/-Tableau%20Training-E97627?style=for-the-badge)](https://www.simplilearn.com/tableau-training-and-data-visualization-course)
 
 <script>
-  function toggleColor(event) {
-    event.preventDefault();
-    event.target.classList.toggle('clicked');
-  }
+  document.querySelectorAll('.interactive-badge').forEach(item => {
+    item.addEventListener('click', function(event) {
+      event.preventDefault();
+      this.classList.toggle('clicked');
+    });
+  });
 </script>
 
 <style>
   .interactive-badge {
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: filter 0.3s ease;
   }
   .interactive-badge.clicked {
-    filter: brightness(0.8); /* Optional: Adjust brightness on click */
+    filter: brightness(0.8); /* Adjust brightness or add other styles on click */
   }
 </style>
+
 
 
 
