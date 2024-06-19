@@ -87,7 +87,14 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
   <br/>
 </details>
 
-[![Sagouma-Sofiane's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagouma-Sofiane&custom_title=Sagouma-Sofiane's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Sagouma-Sofiane's Activity Graph" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sagouma-Sofiane&layout=compact&bg_color=1F222E&text_color=F8D866&title_color=F85D7F&hide_border=true" />
+  </a>
+  <br/>
+</details>
 
 
 
