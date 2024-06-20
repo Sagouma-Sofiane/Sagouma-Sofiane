@@ -16,11 +16,6 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
    </a>
    </p>
 
- <a href="https://github.com/Sagouma-Sofiane?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sagouma-Sofiane?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a> 
-
-
 :mailbox: Reach me out!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
