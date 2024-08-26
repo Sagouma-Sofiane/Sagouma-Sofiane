@@ -29,9 +29,9 @@ Hi, Welcom to my github profil!!👐. I am about to embark on my second year of 
 
 ✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
 
-<!-- Ligne vide pour sauter une ligne -->
+✔️  In my free time, I enjoy drawing, playing tennis, and conversing in English with people from around the world..
 
-<!-- Ligne vide supplémentaire pour descendre la ligne hr -->
+<!-- Ligne vide pour sauter une ligne -->
 
 <!-- Ligne vide supplémentaire pour descendre la ligne hr -->
 
