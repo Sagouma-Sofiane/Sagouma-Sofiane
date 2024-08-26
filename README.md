@@ -5,13 +5,14 @@
 </h1> 
 
 Hi, Welcom to my github profil!!👐. I am about to embark on my second year of a Master's program in Scientific Computing 🎓💻, where I will continue to delve into the world of computational methods 🧮🔍 and their applications. With a robust academic foundation and a keen interest in numerical simulations and machine learning 🤖📊, I am dedicated to pushing the boundaries of scientific research 🔬📈. My journey 🌍🛤️ in this field is driven by a relentless curiosity 🧐✨ to explore and decode the universe 🌌🔭 through the lens of advanced computing technologies 🖥️🚀.
- 
+
+ <!--
  <p align="left">
      <a href="https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf">
       <img alt="View My CV" title="View My CV" src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge"/>
    </a>
    </p>
-
+-->
 :mailbox: Reach me out!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
