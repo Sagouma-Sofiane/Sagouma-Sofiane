@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" />   
 </h1> 
 
-Hi, Welcom to my github profil!!👐. I am currently in my second year of a Master’s program in Scientific Computing 🎓💻, where I will continue to delve into the world of computational methods 🧮🔍 and their applications. With a robust academic foundation and a keen interest in numerical simulations and machine learning 🤖📊, I am dedicated to pushing the boundaries of scientific research 🔬📈. My journey 🌍🛤️ in this field is driven by a relentless curiosity 🧐✨ to explore and decode the universe 🌌🔭 through the lens of advanced computing technologies 🖥️🚀.
+Hi, Welcom to my github profil!!👐. I am currently in my second year of a Master’s program in Scientific Computing 🎓💻, where I am delving into computational methods 🧮🔍 and their applications. With a robust academic foundation and a keen interest in numerical simulations and machine learning 🤖📊, I am dedicated to pushing the boundaries of scientific research 🔬📈. My journey 🌍🛤️ in this field is driven by a relentless curiosity 🧐✨ to explore and decode the universe 🌌🔭 through the lens of advanced computing technologies 🖥️🚀.
 
  <!--
  <p align="left">
