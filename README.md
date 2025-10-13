@@ -18,21 +18,6 @@ Passionate about Artificial Intelligence, data-driven decision-making, and predi
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-sagouma/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mh-sofiane.sagouma@outlook.fr)
               
- <hr/>
-
-## 🎯 GOALS 
-
-✔️  I am deeply curious to explore the universe around us through numerical simulation and data science. I firmly believe that mathematics and computer technologies will shape the world of tomorrow.
-
-✔️  My ambition is to become a researcher and contribute to the advancement of science by exploring areas where mathematics, computer science, physics, and biology intersect.
-
-✔️  I like having time to think my ideas through carefully, challenging common sense as well as my own assumptions.
-
-✔️  In my free time, I enjoy drawing, playing tennis, and conversing in English with people from around the world.
-
-<!-- Ligne vide pour sauter une ligne -->
-
-<!-- Ligne vide supplémentaire pour descendre la ligne hr -->
 
 <hr/>
  
