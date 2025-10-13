@@ -3,8 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofiane+Sagouma!;" />   
 </h1> 
-
-
+Passionate about Artificial Intelligence, data-driven decision-making, and predictive modeling.
+💻 Skilled in Python, Power BI, SQL, and Machine Learning, with a strong focus on transforming complex data into actionable insights.
+🚀 Continuously learning, building, and sharing projects that bring data to life.
  <!--
  <p align="left">
      <a href="https://github.com/Sagouma-Sofiane/Sagouma-Sofiane/blob/main/Resume_sagouma_Mohamed_Sofiane.pdf">
